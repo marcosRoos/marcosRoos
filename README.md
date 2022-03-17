@@ -1,5 +1,5 @@
-### Hi there, I'm Marco Antônio M. Roos 👋
-Former electronics technician, game developer by passion and software egineer by vocation.
+<h2 align="center"> Hi there, I'm Marco Antônio M. Roos 👋 </h2>
+<h4 align="center"> Former electronics technician, game developer by passion and software egineer by vocation. </h4>
 
 <div align="center">
   <a href="https://github.com/marcosRoos">
@@ -7,7 +7,7 @@ Former electronics technician, game developer by passion and software egineer by
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosRoos&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div align="right" style="display: inline_block"><br>
    <img align="center" alt="Java" height="48" width="48" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Spring" height="48" width="48" title="Spring"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="HTML5" height="48" width="48" title="HTML5"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
