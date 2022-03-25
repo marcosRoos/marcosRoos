@@ -5,6 +5,7 @@
   <a href="https://github.com/marcosRoos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosRoos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosRoos&layout=compact&langs_count=7&theme=merko"/>
+  
 </div>
 
 <div align="right" style="display: inline_block"><br>
@@ -19,5 +20,6 @@
   <img align="center" alt="MongDB" height="48" width="48" title="MongoDB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="MySQL" height="48" width="48" title="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
+</a>
   
   
